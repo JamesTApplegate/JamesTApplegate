@@ -1,5 +1,5 @@
 - 👋 Howdy, I’m @JamesTApplegate
-- 👀 I’m interested in science, data, mathematics, electronics, robotics, programming
+- 👀 I’m interested in science, data, programming, robotics, electronics, mathematics and much more!
 - 🌱 I’m currently practicing Azure services big and small, 3D printing, computer vision, statistical analysis python, pandas, etc... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... I can be reached via email at jim@Applegate.tech
